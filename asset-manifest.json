@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EricM76/clima-react.git/static/css/main.13d98402.chunk.css",
-    "main.js": "/EricM76/clima-react.git/static/js/main.7e52e7f6.chunk.js",
-    "main.js.map": "/EricM76/clima-react.git/static/js/main.7e52e7f6.chunk.js.map",
-    "runtime-main.js": "/EricM76/clima-react.git/static/js/runtime-main.fda67b3a.js",
-    "runtime-main.js.map": "/EricM76/clima-react.git/static/js/runtime-main.fda67b3a.js.map",
-    "static/js/2.31d2ba8f.chunk.js": "/EricM76/clima-react.git/static/js/2.31d2ba8f.chunk.js",
-    "static/js/2.31d2ba8f.chunk.js.map": "/EricM76/clima-react.git/static/js/2.31d2ba8f.chunk.js.map",
-    "index.html": "/EricM76/clima-react.git/index.html",
-    "static/css/main.13d98402.chunk.css.map": "/EricM76/clima-react.git/static/css/main.13d98402.chunk.css.map",
-    "static/js/2.31d2ba8f.chunk.js.LICENSE.txt": "/EricM76/clima-react.git/static/js/2.31d2ba8f.chunk.js.LICENSE.txt"
+    "main.css": "/climaWitchReact/static/css/main.13d98402.chunk.css",
+    "main.js": "/climaWitchReact/static/js/main.7e52e7f6.chunk.js",
+    "main.js.map": "/climaWitchReact/static/js/main.7e52e7f6.chunk.js.map",
+    "runtime-main.js": "/climaWitchReact/static/js/runtime-main.e941ff80.js",
+    "runtime-main.js.map": "/climaWitchReact/static/js/runtime-main.e941ff80.js.map",
+    "static/js/2.31d2ba8f.chunk.js": "/climaWitchReact/static/js/2.31d2ba8f.chunk.js",
+    "static/js/2.31d2ba8f.chunk.js.map": "/climaWitchReact/static/js/2.31d2ba8f.chunk.js.map",
+    "index.html": "/climaWitchReact/index.html",
+    "static/css/main.13d98402.chunk.css.map": "/climaWitchReact/static/css/main.13d98402.chunk.css.map",
+    "static/js/2.31d2ba8f.chunk.js.LICENSE.txt": "/climaWitchReact/static/js/2.31d2ba8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fda67b3a.js",
+    "static/js/runtime-main.e941ff80.js",
     "static/js/2.31d2ba8f.chunk.js",
     "static/css/main.13d98402.chunk.css",
     "static/js/main.7e52e7f6.chunk.js"
